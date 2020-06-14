@@ -1,4 +1,3 @@
-
 add_executable(TestHelloWorldCore
   TestHelloWorldCore.swift)
 target_link_libraries(TestHelloWorldCore PRIVATE

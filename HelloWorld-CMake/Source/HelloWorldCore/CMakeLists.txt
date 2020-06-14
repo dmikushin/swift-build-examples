@@ -1,4 +1,3 @@
-
 add_library(HelloWorldCore
   _HelloWorldCore.swift
   HelloWorldCore.swift)
